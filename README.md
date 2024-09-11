@@ -1,2 +1,10 @@
-# ponderada_ux_05
-Este repositório é dedicado à atividade ponderada de design e ux, correspondente à sexta semana do módulo três do Inteli - Instituto de Tecnologia e Liderança.
+Ponderada de UX - Sexta Semana
+
+<div align="center">
+<sub>Figura 01 - Imagem do gráfico</sub>
+<br>
+<br>
+<img alt="Imagem do gráfico" src="assets/ponderadaUX.svg">
+<br>
+<br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
