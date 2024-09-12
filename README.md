@@ -5,22 +5,20 @@ Este repositório é dedicado à atividade ponderada "Atividade 1 de UX com pont
 <div align="center">
 <sub>Figura 01 - Imagem dos dados</sub>
 <br>
-<br>
 <img alt="Imagem dos dados" src="assets/dados.PNG">
 <br>
-<br>
 <sup>Fonte: Tabela 3 fornecida pelo professor</sup>
+</div>
 
 E aqui está o gráfico representando esses dados:
 
 <div align="center">
 <sub>Figura 03 - Imagem do gráfico</sub>
 <br>
-<br>
 <img alt="Imagem do gráfico" src="assets/ponderadaUX.svg">
 <br>
-<br>
 <sup>Fonte: Material produzido pelos autores</sup>
+</div>
   
 ## Escolha do gráfico e das cores 
 
