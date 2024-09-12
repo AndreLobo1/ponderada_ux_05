@@ -6,7 +6,7 @@ Este repositório é dedicado à atividade ponderada "Atividade 1 de UX com pont
 <sub>Figura 01 - Imagem dos dados</sub>
 <br>
 <br>
-<img alt="Imagem dos dados" src="assets/dados.png">
+<img alt="Imagem dos dados" src="assets/dados.PNG">
 <br>
 <br>
 <sup>Fonte: Tabela 3 fornecida pelo professor</sup>
